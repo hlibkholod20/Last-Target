@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4105826404999741739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4816901879621006046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f084713e04069c244bb85fadbab7296b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &7708222057443581441
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 239815478237118327, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 608374669263089866, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2891321552219532511, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_Name
+      value: GetRockets Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2891321552219532511, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_TagString
+      value: GetRocket
+      objectReference: {fileID: 0}
+    - target: {fileID: 2948975822060434046, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6939648373979604273, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187742576076469667, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187742576076469667, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187742576076469667, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187742576076469667, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187742576076469667, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187742576076469667, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187742576076469667, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187742576076469667, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187742576076469667, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187742576076469667, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7187742576076469667, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7685934015366599817, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8804968559968120282, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_Name
+      value: GetRockets Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8804968559968120282, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+      propertyPath: m_TagString
+      value: GetRocket
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 608374669263089866, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+    - {fileID: 6939648373979604273, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+    - {fileID: 2948975822060434046, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+--- !u!1 &4816901879621006046 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2891321552219532511, guid: d13095090fa2c0b42aeb198f10acc46e, type: 3}
+  m_PrefabInstance: {fileID: 7708222057443581441}
+  m_PrefabAsset: {fileID: 0}
